@@ -1,9 +1,5 @@
 # Title: DodoAndrade/hosts
 #
-# Fetch the latest version of this file: https://raw.githubusercontent.com/dodoandrade/hosts/master/hosts
-# Project home page: https://github.com/dodoandrade/hosts
-# Project releases: https://github.com/dodoandrade/hosts/releases
-#
 # ===============================================================
 
 127.0.0.1 localhost
@@ -25,14 +21,15 @@ ff02::3 ip6-allhosts
 
 
 # End of custom host records.
-# Start StevenBlack
+# Start Dodo Andrade
 
 #=====================================
-# Title: Hosts contributed by Steven Black
-# http://stevenblack.com
+# Title: Hosts contributed by Dodo Andrade
+
 
 0.0.0.0 youtube.com
-
+0.0.0.0 https://www.youtube.com/?app=desktop&hl=pt
+0.0.0.0 googlevideo.com
 
 #=====================================
 # End yoyo.org
