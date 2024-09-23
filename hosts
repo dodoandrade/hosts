@@ -28,8 +28,11 @@ ff02::3 ip6-allhosts
 
 
 0.0.0.0 youtube.com
-0.0.0.0 https://www.youtube.com/?app=desktop&hl=pt
 0.0.0.0 googlevideo.com
+0.0.0.0 video-stats
+0.0.0.0 yt3.ggpht.com
+0.0.0.0 i9.ytimg.com
+0.0.0.0 rr1---sn-uxaxh5g-bpbls.googlevideo.com
 
 #=====================================
 # End yoyo.org
